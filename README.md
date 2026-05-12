@@ -30,6 +30,8 @@ MongoDB database integration
 Token verification for protected routes
 #screenshots
 ###HOME PAGE
+<img width="1903" height="878" alt="Screenshot 2026-05-12 181329" src="https://github.com/user-attachments/assets/04dc84b5-e187-44b2-9f0b-282220147d2b" />
+
 
 📁 Folder Structure
 
