@@ -31,7 +31,12 @@ Token verification for protected routes
 #screenshots
 ###HOME PAGE
 <img width="1903" height="878" alt="Screenshot 2026-05-12 181329" src="https://github.com/user-attachments/assets/04dc84b5-e187-44b2-9f0b-282220147d2b" />
-
+#LOGIN PAGE
+<img width="791" height="486" alt="Screenshot 2026-05-12 181702" src="https://github.com/user-attachments/assets/737e07a7-9273-41c0-89b1-f3f163a83ae8" />
+#CREATEBLOG PAGE
+<img width="1763" height="479" alt="Screenshot 2026-05-12 181806" src="https://github.com/user-attachments/assets/e8543f22-64a1-44ce-bdc1-fbb54408590b" />
+#EDIT OR UPDATE BLOG
+<img width="916" height="227" alt="Screenshot 2026-05-12 181917" src="https://github.com/user-attachments/assets/ae799eb1-9dd5-4d36-84d1-3a1fb6b278e2" />
 
 📁 Folder Structure
 
